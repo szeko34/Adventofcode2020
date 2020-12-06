@@ -1,6 +1,4 @@
-# Tu napíšte svoj kód :-)
 subor=open("1_1input.txt","r")
-
 
 cisla=[int(x) for x in subor]
 for x in cisla:

@@ -1,0 +1,4 @@
+rozsypal sa mi kod, tak vam velmi nepomozem... v zasade som to riesil metodou backtrackingu, ktora sa mi zdala elegantnejsia ako bruteforce, ktora ale bola citatelnejsia...
+
+v pripade zaujmu ma kontaktujte a vieme to spolu nanovo vyskladat, teraz kapacitu nemam
+

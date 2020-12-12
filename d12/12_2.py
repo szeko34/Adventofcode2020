@@ -8,9 +8,6 @@ for x in r:
     x=x.strip()
     inst.append((x[0],int(x[1:])))
 
-otocenia=[(1,0),(0,1),(-1,0),(0,-1)]
-smer=0
-print(inst)
 vzd=[0,0]
 wp=[10,-1]
 for s,d in inst:

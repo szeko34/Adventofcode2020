@@ -32,7 +32,7 @@ for x in pravidla:
     prav[p] = c
     c = set()
 
-
+#vytvorim mnozinu pripustnych cisel, bude to zjednotenim vsetkych cisel z jednotlivych pravidiel
 c = set()
 for x in prav:
     c = c.union(prav[x])

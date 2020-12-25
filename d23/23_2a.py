@@ -46,4 +46,4 @@ for i in range(10000000):
     #print("spat",dalsi,items)
 
 for i in range(int(np.where(items==1)[0]+1),int(np.where(items==1)[0]+1+2)):
-    print(items[i])
+    print(items[i]) 
